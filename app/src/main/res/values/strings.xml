@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">robotiumDiary</string>
+    <string name="btn_txt_openMain">Open Main Activity</string>
+    <string name="btn_txt_openSecond">Open Second Activity</string>
+</resources>
