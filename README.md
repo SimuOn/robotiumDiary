@@ -1,0 +1,2 @@
+# robotiumDiary
+robotium test demo
